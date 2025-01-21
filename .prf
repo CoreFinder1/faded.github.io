@@ -1,0 +1,21 @@
+{
+	"connectingName": "",
+	"method": "ftp",
+	"host": "x13.x10hosting.com",
+	"port": "22",
+	"username": "corefinder1@faded.x10.mx",
+	"rsaPath": "",
+	"password": "CraftM1ne!!!",
+	"serverPath": "/",
+	"save": true,
+	"siteUrl": "",
+	"method_p": "ftp",
+	"host_p": "",
+	"port_p": "21",
+	"username_p": "",
+	"rsaPath_p": "",
+	"password_p": "",
+	"serverPath_p": "",
+	"siteUrl_p": "",
+	"prfver": "1.1"
+}
